@@ -1,5 +1,7 @@
-![IMG-20240910-WA0002 (2)](https://github.com/user-attachments/assets/67e1a2d6-a229-4a53-8ca3-072efe66af12)
-<!-- Replace with your actual banner image link -->
+
+![Image](https://github.com/user-attachments/assets/03a3906a-c294-47b9-b4fe-b7d4b5c5e242)
+
+<!-- Header banner -->
 
 # 💫 About Me:
 Hi there! 👋 I'm **Purna Sai Potu**, a data enthusiast from Hyderabad with a BE in Computer Science and Engineering (Artificial Intelligence). I’m on an exciting journey into the world of data and analytics, diving deep to uncover insights and drive impactful decisions. Here’s a bit about my path and what I'm up to:
