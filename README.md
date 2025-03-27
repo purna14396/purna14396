@@ -22,6 +22,7 @@ Hi there! 👋 I'm **Purna Sai Potu**, a data enthusiast from Hyderabad with a B
    - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    - Data Structures & Algorithms (DSA)
 
+
 2. **Databases & Tools :**
    - ![SQL](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp; ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp; ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) &nbsp; ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
@@ -29,9 +30,8 @@ Hi there! 👋 I'm **Purna Sai Potu**, a data enthusiast from Hyderabad with a B
 3. **Data Science & Analytics :**
    - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white) &nbsp; ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=seaborn&logoColor=white)
 
-   - Exploratory Data Analysis (EDA)
-   - Machine Learning
-   - Deep Learning
+   - ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-0096c7?style=for-the-badge) &nbsp; ![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff6f00?style=for-the-badge) &nbsp; ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8e44ad?style=for-the-badge)
+
 
 4. **Web Scraping:**
    - ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
