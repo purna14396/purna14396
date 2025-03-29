@@ -3,7 +3,7 @@
 <!-- Header banner -->
 
 # 💫 About Me:
-Hi there! 👋 I'm **Purna Sai Potu**, a data enthusiast from Hyderabad with a BE in Computer Science and Engineering (Artificial Intelligence). I’m on an exciting journey into the world of data and analytics, diving deep to uncover insights and drive impactful decisions. Here’s a bit about my path and what I'm up to:
+Hi there! 👋 I'm **Purna Sai Potu**, a data enthusiast with a BE in Computer Science and Engineering (Artificial Intelligence). I’m on an exciting journey into the world of data and analytics, diving deep to uncover insights and drive impactful decisions. Here’s a bit about my path and what I'm up to:
 
 - 🎯 **Current Focus:** Building a strong foundation in data analysis with SQL, Excel, Python, and Machine Learning.
 - 🚀 **Career Aspiration:** Aspiring to kickstart my career as a Data Analyst, with a vision to evolve into a Data Scientist who turns data into actionable insights.
