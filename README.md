@@ -1,5 +1,4 @@
 
-![Image](https://github.com/user-attachments/assets/03a3906a-c294-47b9-b4fe-b7d4b5c5e242)
 
 <!-- Header banner -->
 
