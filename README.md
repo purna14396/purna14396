@@ -55,15 +55,17 @@
 ## 🚀 Projects / Portfolio
 
 ### 🧠 Converse Learn – AI Communication Trainer  
+
 <p align="left">
-  <img src="./converse%20Learn.jpg" width="300" align="left" style="margin-right: 20px; border-radius: 8px;" />
+  <img src="./images/converse%20Learn.jpg" width="300" align="left" style="margin-right: 20px; border-radius: 8px;" />
 </p>
 
 > A multimodal AI platform for real-time language improvement with feedback, quizzes, and visual tracking.  
 > 🔗 [GitHub Repo](https://github.com/purna14396/ConverseLearn_A_Multimodal_AI_Educational_Assistant)  
-🛠 Tools: `Streamlit`, `Gemini AI`, `gTTS`, `SpeechRecognition`, `Pandas`
+> 🛠 Tools: `Streamlit`, `Gemini AI`, `gTTS`, `SpeechRecognition`, `Pandas`
 
 <br clear="left" />
+
 
 ---
 
