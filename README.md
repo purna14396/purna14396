@@ -57,7 +57,7 @@
 ### 🧠 Converse Learn – AI Communication Trainer  
 
 <p align="left">
-  <img src="./images/converse%20Learn.jpg" width="300" align="left" style="margin-right: 20px; border-radius: 8px;" />
+  <img src="./Images/converse%20Learn.jpg" width="300" align="left" style="margin-right: 20px; border-radius: 8px;" />
 </p>
 
 > A multimodal AI platform for real-time language improvement with feedback, quizzes, and visual tracking.  
