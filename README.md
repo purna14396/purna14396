@@ -15,7 +15,8 @@
 
 
 ```diff
-🌟 Passionate about AI-powered products that improve human communication and decision-making.
+🌟 Passionate about leveraging Data Science to uncover insights, solve real-world problems, and drive smarter decisions.
+
 ```
 
 <p align="center">
@@ -54,6 +55,43 @@
 
 ## 🚀 Projects / Portfolio
 
+### 📡 Telecom Churn Prediction  
+<p align="left">
+  <img src="./Images/telecom.jpg" height="180" width="270" align="left" style="margin-right: 20px;" />
+</p>
+
+
+> Developed a machine learning model using `Random Forest` to predict customer churn based on telecom usage and billing patterns.  
+> ✅ Improved recall from **62% to 97%** and accuracy from **84% to 94%** using resampling techniques (minority class boost).  
+> 📊 Built interactive **Power BI dashboards** for churn segmentation, revenue impact, and retention analysis.  
+> 🎯 Reduced projected churn by ~9% (1,140+ customers) via data-driven offers based on contract types and regions.  
+> 🔗 [GitHub Repo](https://github.com/purna14396/Customer_Churn_Analysis)  
+> 🛠 Tools: `Python`, `Pandas`, `Scikit-Learn`, `Power BI`, `Microsoft SQL Server`, `Excel`, `Jupyter Notebook`
+
+<br clear="left" />
+
+---
+
+
+
+### 💳 Credit Card Fraud Detection  
+<p align="left">
+  <img src="./Images/credit%20card%20fraud.png" height="180" width="270" align="left" style="margin-right: 20px; border-radius: 8px;" />
+</p>
+
+> Developed a fraud detection system using ensemble models like `Logistic Regression`, `Decision Tree`, and `Random Forest`.  
+> 🛡️ Achieved **100% recall** by applying `SMOTE` oversampling to effectively handle class imbalance.  
+> 🚀 Deployed a real-time prediction app using `Flask`, with a user-friendly UI hosted on `Render`.  
+> 🔗 [GitHub Repo](https://github.com/purna14396/Credit_Card_Fraud_Detection_System)  
+> 🛠 Tools: `Python`, `Scikit-learn`, `SMOTE`, `Flask`, `Pandas`, `Jupyter Notebook`, `Render Cloud`
+
+<br clear="left" />
+
+---
+
+
+
+
 ### 🧠 Converse Learn – AI Communication Trainer  
 
 <p align="left">
@@ -61,38 +99,14 @@
 </p>
 
 
-> A multimodal AI platform for real-time language improvement with feedback, quizzes, and visual tracking.  
+> Built an AI-powered communication trainer integrating `text`, `voice`, and `visual` modes for real-time language learning.  
+> 💬 Features include grammar correction, adaptive quizzes, and performance tracking with dynamic feedback.  
+> 🚀 Deployed using `Streamlit` with `Gemini AI` for intelligent analysis and hosted on Render with a responsive UI.  
 > 🔗 [GitHub Repo](https://github.com/purna14396/ConverseLearn_A_Multimodal_AI_Educational_Assistant)  
-> 🛠 Tools: `Streamlit`, `Gemini AI`, `gTTS`, `SpeechRecognition`, `Pandas`
+> 🛠 Tools: `Streamlit`, `Gemini AI`, `gTTS`, `SpeechRecognition`, `Pandas`, `Matplotlib`
 
 <br clear="left" />
 
-
----
-
-### 💳 Credit Card Fraud Detection  
-<p align="left">
-  <img src="./Images/credit%20card%20fraud.png" height="180" width="270" align="left" style="margin-right: 20px; border-radius: 8px;" />
-</p>
-
-> Deployed a fraud detection system using ensemble classifiers and SMOTE for real-time predictions.  
-> 🔗 [GitHub Repo](https://github.com/purna14396/Credit_Card_Fraud_Detection_System)  
-🛠 Tools: `Python`, `Scikit-learn`, `SMOTE`, `Flask`, `Render`
-
-<br clear="left" />
-
----
-
-### 📡 Telecom Churn Prediction  
-<p align="left">
-  <img src="./Images/telecom.jpg" height="180" width="270" align="left" style="margin-right: 20px;" />
-</p>
-
-> Analyzed customer churn using Random Forest and Power BI to reduce churn by 9% via service targeting.  
-> 🔗 [GitHub Repo](https://github.com/purna14396/Customer_Churn_Analysis)  
-🛠 Tools: `Python`, `Power BI`, `SQL`, `Jupyter`, `Scikit-learn`
-
-<br clear="left" />
 
 ---
 
@@ -100,9 +114,13 @@
 
 ### 🏢 Intern – Data Science & Analytics  
 **HCL Technologies** | Feb 2024 – May 2024  
-- Boosted model recall to 97%  
-- Created BI dashboards for customer retention  
-- Impacted 1,100+ user retention through segmentation
+
+- Developed a machine learning model using `Random Forest` to predict customer churn in the telecom sector  
+- Boosted **recall from 62% to 97%** and **accuracy from 84% to 94%** using resampling techniques for class imbalance  
+- Designed **Power BI dashboards** to visualize churn patterns, revenue impact, and retention strategies  
+- Enabled retention of **1,140+ customers** (~9% churn reduction) through segmentation and targeted offers  
+- Tools Used: `Python`, `Pandas`, `Scikit-learn`, `Power BI`, `MS SQL Server`, `Excel`
+
 
 ---
 
