@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color:#0F62FE;">💙 Potu Purna Sai</h1>
+<h1 align="center" style="color:#0F62FE;">POTU PURNA SAI</h1>
 <p align="center">
   <b>AI & Data Science Enthusiast | Problem Solver | Tech Explorer</b><br>
   <a href="mailto:potupurnasai7@gmail.com">📧 Email</a> • 
