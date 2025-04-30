@@ -126,24 +126,26 @@
 
 ## 🏅 Certifications & Achievements
 
-- 📘 **AI & ML** – *IIT Bhubaneswar*
-- 📊 **Career Essentials in Data Analysis** – *Microsoft & LinkedIn*
-- ☁️ **AWS Cloud Practitioner** – *AWS*
-- 🧪 **Applied Data Science (Lv. 2)** – *IBM*
+- 📘 **[AI & ML](Certificates/Machine%20Learning%20By%20python%20-%20IBM.pdf)** – *IIT Bhubaneswar*
+- 📊 **[Career Essentials in Data Analysis](Certificates/Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)** – *Microsoft & LinkedIn*
+- ☁️ **[AWS Cloud Practitioner](Certificates/AWS_Cloud%20Practitioner.pdf)** – *AWS*
+- 🧪 **[Applied Data Science (Lv. 2)](Certificates/Applied%20Data%20Science%20with%20Python%20By%20IBM.pdf)** – *IBM*
+
 
 ---
 
 ## 📚 Publications & Conferences
 
-- 📝 *“Converse Learn – A Multimodal AI Assistant”*, IOSR-JCE, 2025  
-- 🎤 Presented at *ICASET 2025 – International Conference on Advances in Science, Engineering & Technology*
+- 📝 Published research paper titled *["Converse Learn: A Multimodal AI Educational Assistant for Dynamic Learning and Practicing the Communication Skills and Real-Time Support"](path/to/your/paper.pdf)* in *IOSR Journal of Computer Engineering, 2025*
+- 🎤 Presented paper at the *[International Conference on Advances in Science, Engineering and Technology (ICASET) 2025](path/to/your/conference/presentation.pdf)*
 
 ---
 
 ## 📌 Leadership & Community
 
 - 🎯 **Xavista Student Club**  
-  Organized tech events, led hackathons, and mentored peers.
+   Organized coding events and hackathons, managing teams while improving technical and people management skills.
+
 
 ---
 
@@ -152,7 +154,11 @@
 📧 **Email**: [potupurnasai7@gmail.com](mailto:potupurnasai7@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/purna-sai-potu-96a15523b](https://www.linkedin.com/in/purna-sai-potu-96a15523b/)  
 🐙 **GitHub**: [github.com/purna14396](https://github.com/purna14396)  
-📄 [Download Resume](./potu_purna_sai_resume.pdf)
+---
+## 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-%23007bff?style=for-the-badge&logo=github&logoColor=white)](./potu_purna_sai_resume.pdf)
+
 
 ---
 
