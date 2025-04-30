@@ -140,8 +140,44 @@
 
 <br clear="left" />
 
+---
+
+### 🪔 Diwali Sales Analysis – Retail Store EDA
+- Conducted **Exploratory Data Analysis (EDA)** on a retail store’s Diwali sales data to uncover business insights into customer behavior, sales trends, and product preferences.
+- 🔍 **Preprocessed** the dataset by handling null values, removing irrelevant columns, and standardizing data, ensuring clean data for accurate analysis.
+- 📊 Provided **key insights** on customer demographics, with findings such as **unmarried individuals aged 26–35** being the highest revenue-generating group, and **females contributing ₹7.43 Cr** in revenue.
+- 💡 Analyzed **regional sales trends**, identifying top revenue-generating states like Maharashtra, Uttar Pradesh, and Karnataka, helping optimize inventory distribution and marketing strategies.
+- 🔗 [GitHub Repo](https://github.com/purna14396/Exploratory-Data-Analysis-on-Diwali-Sales-Data-Retail-Store-Insights)  
+- 🛠 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook / Google Colab
+
+<br clear="left" />
 
 ---
+
+### 📊 Data Professional Survey Analysis
+- Analyzed real survey data from data professionals to gain insights into job titles, salaries, industry, programming languages, and demographics.
+- 🔧 Cleaned and transformed the data using **Power BI's Power Query Editor**, including removing unnecessary columns, cleaning text entries, and calculating average salary from salary ranges.
+- 📈 Created interactive **visualizations** in Power BI, including **clustered bar charts** for average salary by job title, **tree maps** for country distribution, and **donut charts** for average salary by gender.
+- 🎨 Enhanced **dashboard formatting** for better clarity and aesthetics, including title adjustments, visual alignment, and customized themes for improved user experience.
+- 🔗 [GitHub Repo](https://github.com/purna14396/Data-Professional-Survey-Analysis)  
+- 🛠 Tools: Power BI, Power Query Editor, DAX, Excel (for validation), GitHub
+
+<br clear="left" />
+
+---
+
+### ❤️ Cardio Vascular Disease Detection System
+- Developed a **cardiovascular disease detection system** using the **XGBoost** classifier to predict the likelihood of cardiovascular disease based on health indicators such as age, gender, blood pressure, cholesterol levels, and lifestyle habits.
+- 🧹 **Data preprocessing** included feature engineering, handling missing values, and normalizing features to prepare the dataset for model training.
+- 🔧 Achieved **92% accuracy** and **90% recall** with the XGBoost model, evaluated using metrics like confusion matrix and classification report for detailed performance analysis.
+- 🖥️ Built an interactive system allowing users to input personal health data for **real-time predictions**, helping with early detection of cardiovascular risks.
+- 🔗 [GitHub Repo](https://github.com/purna14396/C-V-D-D-Model-Xgboost-algorithm)  
+- 🛠 Tools: Python, XGBoost, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+
+<br clear="left" />
+
+---
+
 
 
 ## 🏅 Certifications & Achievements
