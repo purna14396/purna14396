@@ -57,8 +57,9 @@
 ### 🧠 Converse Learn – AI Communication Trainer  
 
 <p align="left">
-  <img src="./Images/converse%20Learn.jpg" width="300" align="left" style="margin-right: 20px; border-radius: 8px;" />
+  <img src="./Images/converse%20Learn.jpg" height="180" width="270" align="left" style="margin-right: 20px;" />
 </p>
+
 
 > A multimodal AI platform for real-time language improvement with feedback, quizzes, and visual tracking.  
 > 🔗 [GitHub Repo](https://github.com/purna14396/ConverseLearn_A_Multimodal_AI_Educational_Assistant)  
@@ -71,7 +72,7 @@
 
 ### 💳 Credit Card Fraud Detection  
 <p align="left">
-  <img src="./credit%20card%20fraud.png" width="300" align="left" style="margin-right: 20px; border-radius: 8px;" />
+  <img src="./Images/credit%20card%20fraud.png" height="180" width="270" align="left" style="margin-right: 20px; border-radius: 8px;" />
 </p>
 
 > Deployed a fraud detection system using ensemble classifiers and SMOTE for real-time predictions.  
