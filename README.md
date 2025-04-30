@@ -1,12 +1,28 @@
-<body style="background-color: white">
 
-<h1 align="center" style="color:#0F62FE;">POTU PURNA SAI</h1>
+
+<h1 align="center" style="color:#0F62FE; font-size: 100px;">POTU PURNA SAI</h1>
+
 <p align="center">
   <b>AI & Data Science Enthusiast | Problem Solver | Tech Explorer</b><br>
-  <a href="mailto:potupurnasai7@gmail.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/purna-sai-potu-96a15523b/">💼 LinkedIn</a> • 
-  <a href="https://github.com/purna14396">👨‍💻 GitHub</a> • 
-  <a href="tel:8438266596">📞 8438266596</a>
+
+  <div align="center">
+    <a href="mailto:potupurnasai7@gmail.com">
+      <img src="https://img.shields.io/badge/%20Email-505756?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/purna-sai-potu-96a15523b/">
+      <img src="https://img.shields.io/badge/%20LinkedIn-505756?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/purna14396">
+      <img src="https://img.shields.io/badge/%20GitHub-505756?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="tel:8438266596">
+      <img src="https://img.shields.io/badge/%208438266596-505756?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+</div>
+
+
+
+
 
 </p>
 
@@ -21,9 +37,14 @@
 ```
 
 <p align="center">
-  <a href="#-projects--portfolio"><img src="https://img.shields.io/badge/-View_Projects-0072ff?style=for-the-badge&logo=github" /></a>
-  <a href="./potu_purna_sai_resume.pdf" download><img src="https://img.shields.io/badge/-Download_Resume-00C2CB?style=for-the-badge&logo=adobeacrobatreader" /></a>
+  <a href="#-projects--portfolio">
+    <img src="https://img.shields.io/badge/-View_Projects-505756?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./potu_purna_sai_resume.pdf" download>
+    <img src="https://img.shields.io/badge/-Download_Resume-505756?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -78,12 +99,13 @@
 
 ### 📡 Telecom Churn Prediction  
 
-> Developed a machine learning model using `Random Forest` to predict customer churn based on telecom usage and billing patterns.  
-> ✅ Improved recall from **62% to 97%** and accuracy from **84% to 94%** using resampling techniques (minority class boost).  
-> 📊 Built interactive **Power BI dashboards** for churn segmentation, revenue impact, and retention analysis.  
-> 🎯 Reduced projected churn by ~9% (1,140+ customers) via data-driven offers based on contract types and regions.  
-> 🔗 [GitHub Repo](https://github.com/purna14396/Customer_Churn_Analysis)  
-> 🛠 Tools: `Python`, `Pandas`, `Scikit-Learn`, `Power BI`, `Microsoft SQL Server`, `Excel`, `Jupyter Notebook`
+- Developed a machine learning model using `Random Forest` to predict customer churn based on telecom usage and billing patterns.  
+- ✅ Improved recall from **62% to 97%** and accuracy from **84% to 94%** using resampling techniques (minority class boost).  
+- 📊 Built interactive **Power BI dashboards** for churn segmentation, revenue impact, and retention analysis.  
+- 🎯 Reduced projected churn by ~9% (1,140+ customers) via data-driven offers based on contract types and regions.  
+- 🔗 [GitHub Repo](https://github.com/purna14396/Customer_Churn_Analysis)  
+- 🛠 Tools: `Python`, `Pandas`, `Scikit-Learn`, `Power BI`, `Microsoft SQL Server`, `Excel`, `Jupyter Notebook`
+
 
 <br clear="left" />
 
@@ -93,11 +115,12 @@
 
 ### 💳 Credit Card Fraud Detection  
 
-> Developed a fraud detection system using ensemble models like `Logistic Regression`, `Decision Tree`, and `Random Forest`.  
-> 🛡️ Achieved **100% recall** by applying `SMOTE` oversampling to effectively handle class imbalance.  
-> 🚀 Deployed a real-time prediction app using `Flask`, with a user-friendly UI hosted on `Render`.  
-> 🔗 [GitHub Repo](https://github.com/purna14396/Credit_Card_Fraud_Detection_System)  
-> 🛠 Tools: `Python`, `Scikit-learn`, `SMOTE`, `Flask`, `Pandas`, `Jupyter Notebook`, `Render Cloud`
+- Developed a fraud detection system using ensemble models like `Logistic Regression`, `Decision Tree`, and `Random Forest`.  
+- 🛡️ Achieved **100% recall** by applying `SMOTE` oversampling to effectively handle class imbalance.  
+- 🚀 Deployed a real-time prediction app using `Flask`, with a user-friendly UI hosted on `Render`.  
+- 🔗 [GitHub Repo](https://github.com/purna14396/Credit_Card_Fraud_Detection_System)  
+- 🛠 Tools: `Python`, `Scikit-learn`, `SMOTE`, `Flask`, `Pandas`, `Jupyter Notebook`, `Render Cloud`
+
 
 <br clear="left" />
 
@@ -108,11 +131,12 @@
 
 ### 🧠 Converse Learn - AI Powered Platform for Communication Skills  
 
-> Built an AI-powered communication trainer integrating `text`, `voice`, and `visual` modes for real-time language learning.  
-> 💬 Features include grammar correction, adaptive quizzes, and performance tracking with dynamic feedback.  
-> 🚀 Deployed using `Streamlit` with `Gemini AI` for intelligent analysis and hosted on Render with a responsive UI.  
-> 🔗 [GitHub Repo](https://github.com/purna14396/ConverseLearn_A_Multimodal_AI_Educational_Assistant)  
-> 🛠 Tools: `Streamlit`, `Gemini AI`, `gTTS`, `SpeechRecognition`, `Pandas`, `Matplotlib`
+- Built an AI-powered communication trainer integrating `text`, `voice`, and `visual` modes for real-time language learning.  
+- 💬 Features include grammar correction, adaptive quizzes, and performance tracking with dynamic feedback.  
+- 🚀 Deployed using `Streamlit` with `Gemini AI` for intelligent analysis and hosted on Render with a responsive UI.  
+- 🔗 [GitHub Repo](https://github.com/purna14396/ConverseLearn_A_Multimodal_AI_Educational_Assistant)  
+- 🛠 Tools: `Streamlit`, `Gemini AI`, `gTTS`, `SpeechRecognition`, `Pandas`, `Matplotlib`
+
 
 <br clear="left" />
 
@@ -161,7 +185,8 @@
 ---
 ## 📄 Resume
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-%23007bff?style=for-the-badge&logo=github&logoColor=white)](./potu_purna_sai_resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-%232b403e?style=for-the-badge&logo=github&logoColor=white)](./potu_purna_sai_resume.pdf)
+
 
 ---
 
@@ -172,8 +197,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/purna14396"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/purna-sai-potu-96a15523b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/purna14396">
+    <img src="https://img.shields.io/badge/GitHub-%231d2423?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/purna-sai-potu-96a15523b/">
+    <img src="https://img.shields.io/badge/LinkedIn-%2363a5c2?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
 </p>
 
-</body>
+
+
