@@ -40,18 +40,38 @@
 ## 💻 Tech Stack
 
 ### 🔹 Languages  
-`Python` `Java` `SQL`
+&nbsp;&nbsp;&nbsp;`Python`&nbsp;&nbsp;&nbsp;`Java`&nbsp;&nbsp;&nbsp;`SQL`
 
 ### 🔹 Libraries & Tools  
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `Power BI` `Excel` `Git`
+&nbsp;&nbsp;&nbsp;`NumPy`&nbsp;&nbsp;&nbsp;`Pandas`&nbsp;&nbsp;&nbsp;`Matplotlib`&nbsp;&nbsp;&nbsp;`Seaborn`&nbsp;&nbsp;&nbsp;`Scikit-learn`&nbsp;&nbsp;&nbsp;`Power BI`&nbsp;&nbsp;&nbsp;`Excel`&nbsp;&nbsp;&nbsp;`Git`
 
 ### 🔹 Frameworks & Cloud  
-`Streamlit` `Flask` `AWS S3` `Athena` `QuickSight`
+&nbsp;&nbsp;&nbsp;`Streamlit`&nbsp;&nbsp;&nbsp;`Flask`&nbsp;&nbsp;&nbsp;`AWS S3`&nbsp;&nbsp;&nbsp;`Athena`&nbsp;&nbsp;&nbsp;`QuickSight`
 
 ### 🔹 Expertise Areas  
-`Machine Learning` `Natural Language Processing` `Data Visualization` `Web Scraping`
+&nbsp;&nbsp;&nbsp;`Machine Learning`&nbsp;&nbsp;&nbsp;`Natural Language Processing`&nbsp;&nbsp;&nbsp;`Data Visualization`&nbsp;&nbsp;&nbsp;`Web Scraping`
+
 
 ---
+
+
+
+
+## 🧑‍💼 Experience
+
+### 🏢 Intern – Data Science & Analytics  
+**HCL Technologies** | Feb 2024 – May 2024  
+
+- Developed a machine learning model using `Random Forest` to predict customer churn in the telecom sector  
+- Boosted **recall from 62% to 97%** and **accuracy from 84% to 94%** using resampling techniques for class imbalance  
+- Designed **Power BI dashboards** to visualize churn patterns, revenue impact, and retention strategies  
+- Enabled retention of **1,140+ customers** (~9% churn reduction) through segmentation and targeted offers  
+- Tools Used: `Python`, `Pandas`, `Scikit-learn`, `Power BI`, `MS SQL Server`, `Excel`
+
+
+---
+
+
 
 ## 🚀 Projects / Portfolio
 
@@ -92,7 +112,7 @@
 
 
 
-### 🧠 Converse Learn – AI Communication Trainer  
+### 🧠 Converse Learn - AI Powered Platform for Communication Skills  
 
 <p align="left">
   <img src="./Images/converse%20Learn.jpg" height="180" width="270" align="left" style="margin-right: 20px;" />
@@ -110,34 +130,29 @@
 
 ---
 
-## 🧑‍💼 Experience
-
-### 🏢 Intern – Data Science & Analytics  
-**HCL Technologies** | Feb 2024 – May 2024  
-
-- Developed a machine learning model using `Random Forest` to predict customer churn in the telecom sector  
-- Boosted **recall from 62% to 97%** and **accuracy from 84% to 94%** using resampling techniques for class imbalance  
-- Designed **Power BI dashboards** to visualize churn patterns, revenue impact, and retention strategies  
-- Enabled retention of **1,140+ customers** (~9% churn reduction) through segmentation and targeted offers  
-- Tools Used: `Python`, `Pandas`, `Scikit-learn`, `Power BI`, `MS SQL Server`, `Excel`
-
-
----
 
 ## 🏅 Certifications & Achievements
 
-- 📘 **[AI & ML](Certificates/Machine%20Learning%20By%20python%20-%20IBM.pdf)** – *IIT Bhubaneswar*
+- 📘 **[Artificial Intelligence Course](Certificates/AI%20course%20teachnook.pdf)** – *IIT Bhubaneswar (via Teachnook)*
+  
 - 📊 **[Career Essentials in Data Analysis](Certificates/Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)** – *Microsoft & LinkedIn*
+
 - ☁️ **[AWS Cloud Practitioner](Certificates/AWS_Cloud%20Practitioner.pdf)** – *AWS*
-- 🧪 **[Applied Data Science (Lv. 2)](Certificates/Applied%20Data%20Science%20with%20Python%20By%20IBM.pdf)** – *IBM*
+  
+- 🧪 **[Applied Data Science (Level - 2)](Certificates/Applied%20Data%20Science%20with%20Python%20By%20IBM.pdf)** – *IBM*
+
+- 🤖 **[Machine Learning Course](Certificates/Machine%20Learning%20By%20python%20-%20IBM.pdf)** – *IBM*
+
+
 
 
 ---
 
 ## 📚 Publications & Conferences
 
-- 📝 Published research paper titled *["Converse Learn: A Multimodal AI Educational Assistant for Dynamic Learning and Practicing the Communication Skills and Real-Time Support"](path/to/your/paper.pdf)* in *IOSR Journal of Computer Engineering, 2025*
-- 🎤 Presented paper at the *[International Conference on Advances in Science, Engineering and Technology (ICASET) 2025](path/to/your/conference/presentation.pdf)*
+- 📝 Published research paper titled *["Converse Learn: A Multimodal AI Educational Assistant for Dynamic Learning and Practicing the Communication Skills and Real-Time Support"](https://www.iosrjournals.org/iosr-jce/papers/Vol26-issue6/Ser-3/C2606031020.pdf)* in *IOSR Journal of Computer Engineering, 2025*
+  
+- 🎤 Presented paper at the *[International Conference on Advances in Science, Engineering and Technology (ICASET) 2025](Certificates/Potu%20Purna%20Sai%20conference%20certificate.pdf)*
 
 ---
 
@@ -158,7 +173,6 @@
 ## 📄 Resume
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-%23007bff?style=for-the-badge&logo=github&logoColor=white)](./potu_purna_sai_resume.pdf)
-
 
 ---
 
