@@ -85,7 +85,7 @@
 
 ### 📡 Telecom Churn Prediction  
 <p align="left">
-  <img src="./telecom.jpg" width="300" align="left" style="margin-right: 20px; border-radius: 8px;" />
+  <img src="./Images/telecom.jpg" height="180" width="270" align="left" style="margin-right: 20px;" />
 </p>
 
 > Analyzed customer churn using Random Forest and Power BI to reduce churn by 9% via service targeting.  
@@ -138,7 +138,7 @@
 
 ---
 
-## 🧭 Footer
+
 
 <p align="center">
   ⓒ 2025 Potu Purna Sai | <a href="#-projects--portfolio">Projects</a> | <a href="#-contact-me">Contact</a>
