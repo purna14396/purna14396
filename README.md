@@ -5,18 +5,14 @@
   <a href="mailto:potupurnasai7@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/purna-sai-potu-96a15523b/">💼 LinkedIn</a> • 
   <a href="https://github.com/purna14396">👨‍💻 GitHub</a> • 
-  <a href="./potu_purna_sai_resume.pdf" download>📄 Download Resume</a>
+  <a href="tel:8438266596">📞 8438266596</a>
+
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Scientist-0F62FE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Domain-AI%20&%20ML-00C2CB?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-0072ff?style=for-the-badge" />
-</p>
+
 
 ---
 
-## 🏠 Hero Section
 
 ```diff
 🌟 Passionate about AI-powered products that improve human communication and decision-making.
@@ -31,10 +27,11 @@
 
 ## 👤 About Me
 
-- 🎓 **B.E. in Computer Science (AI)**, Sathyabama University – CGPA: 9.2  
-- 🏡 Based in Andhra Pradesh, India  
-- 🚀 Passionate about solving problems using intelligent systems  
-- 💡 Interested in NLP, ML, AI Tools & Frameworks  
+- 🎓 **Recent B.E. Computer Science (AI) Graduate** from Sathyabama University – CGPA: 9.2  
+- 📍 Currently residing in Hyderabad, India  
+- 🔍 Passionate about **Data Science** and **Analytics**, with a strong interest in turning data into meaningful insights  
+- 💡 Enthusiastic about **NLP**, **Machine Learning**, and exploring modern **AI tools and frameworks**  
+
 - 🌈 *“Every problem has a pattern — the joy lies in decoding it.”*
 
 ---
