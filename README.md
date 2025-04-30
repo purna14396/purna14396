@@ -1,3 +1,4 @@
+<body style="background-color: white">
 
 <h1 align="center" style="color:#0F62FE;">POTU PURNA SAI</h1>
 <p align="center">
@@ -76,10 +77,6 @@
 ## 🚀 Projects / Portfolio
 
 ### 📡 Telecom Churn Prediction  
-<p align="left">
-  <img src="./Images/telecom.jpg" height="180" width="270" align="left" style="margin-right: 20px;" />
-</p>
-
 
 > Developed a machine learning model using `Random Forest` to predict customer churn based on telecom usage and billing patterns.  
 > ✅ Improved recall from **62% to 97%** and accuracy from **84% to 94%** using resampling techniques (minority class boost).  
@@ -95,9 +92,6 @@
 
 
 ### 💳 Credit Card Fraud Detection  
-<p align="left">
-  <img src="./Images/credit%20card%20fraud.png" height="180" width="270" align="left" style="margin-right: 20px; border-radius: 8px;" />
-</p>
 
 > Developed a fraud detection system using ensemble models like `Logistic Regression`, `Decision Tree`, and `Random Forest`.  
 > 🛡️ Achieved **100% recall** by applying `SMOTE` oversampling to effectively handle class imbalance.  
@@ -113,11 +107,6 @@
 
 
 ### 🧠 Converse Learn - AI Powered Platform for Communication Skills  
-
-<p align="left">
-  <img src="./Images/converse%20Learn.jpg" height="180" width="270" align="left" style="margin-right: 20px;" />
-</p>
-
 
 > Built an AI-powered communication trainer integrating `text`, `voice`, and `visual` modes for real-time language learning.  
 > 💬 Features include grammar correction, adaptive quizzes, and performance tracking with dynamic feedback.  
@@ -186,3 +175,5 @@
   <a href="https://github.com/purna14396"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/purna-sai-potu-96a15523b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
 </p>
+
+</body>
