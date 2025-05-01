@@ -47,13 +47,13 @@
 
 # 💫 About Me:
 <br>
-Hi there! 👋 I'm **Purna Sai Potu**, a data enthusiast with a BE in Computer Science and Engineering (Artificial Intelligence). I’m on an exciting journey into the world of data Science and analytics, diving deep to uncover insights and drive impactful decisions. Here’s a bit about my path and what I'm up to:
+Hi there! 👋 I'm Purna Sai Potu, an Aspiring Software Engineer & Data Science Enthusiast  with a BE in Computer Science and Engineering (Artificial Intelligence). I’m on an exciting journey into the world of data Science and analytics, diving deep to uncover insights and drive impactful decisions. Here’s a bit about my path and what I'm up to:
 
 - 🎓 **Recent B.E. Computer Science (AI) Graduate** from Sathyabama University – CGPA: 9.2  
 - 📍 Currently residing in Hyderabad, India
 - 🚀 **Career Aspiration:** Aspiring to kickstart my career in Data Science & Analytics, with a vision to evolve into a Data Scientist who turns data into actionable insights.
 - 📊 **Exploring:** Power BI to enhance data visualization capabilities and craft compelling data narratives, along with advancing skills in **NLP**, **Machine Learning**, and **AI tools and frameworks**.
-- 🌱 **Passionate About:** **Data Science** and **Analytics**, with a strong interest in turning data into meaningful insights 
+- 🌱 **Passionate About:** **Data Science** and **Analytics**, with a strong interest in writing clean code to turning data into meaningful insights 
 
 🌈 *“Every problem has a pattern — the joy lies in decoding it.”*
 
